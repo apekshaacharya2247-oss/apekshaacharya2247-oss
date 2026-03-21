@@ -1,16 +1,36 @@
 ## Hi there 👋
 
-<!--
-**apekshaacharya2247-oss/apekshaacharya2247-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub!
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
+I am a Computer Science student passionate about technology, problem-solving, and building innovative solutions. I enjoy exploring new tools, learning modern development practices, and improving my coding skills every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Programming: C, C++, Java, Python  
+- Web Development: HTML, CSS, JavaScript  
+- Database: MySQL  
+- Tools: Git, GitHub, VS Code  
+
+## 📚 Interests
+- Machine Learning & AI  
+- Web Development  
+- Data Structures & Algorithms  
+
+## 🌱 Currently Learning
+- Advanced Data Structures  
+- Full Stack Development  
+- Machine Learning concepts  
+
+## 📌 Projects
+I am actively working on projects related to:
+- Web applications  
+- Machine learning models  
+- API development  
+
+## 📫 Connect With Me
+- GitHub: 
+- LinkedIn:www.linkedin.com/in/apeksha-acharya-495161334 
+
+---
+
+⭐ *Thanks for visiting my profile!*
