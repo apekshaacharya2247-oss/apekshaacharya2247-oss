@@ -28,7 +28,7 @@ I am actively working on projects related to:
 - API development  
 
 ## 📫 Connect With Me
-- GitHub: 
+- GitHub:https://github.com/apekshaacharya2247-oss
 - LinkedIn:www.linkedin.com/in/apeksha-acharya-495161334 
 
 ---
