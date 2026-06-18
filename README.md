@@ -27,5 +27,4 @@ Passionate Full Stack Developer focused on building responsive, user-friendly, a
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/apekshaacharya2247-oss/https://github.com/apekshaacharya2247-oss/Focus-Flow-AI" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=apekshaacharya2247-oss&repo=https://github.com/apekshaacharya2247-oss/Focus-Flow-AI&title_color=ffffff&text_color=14b8a6&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
+<div width="100%" align="center"><a href="https://github.com/apekshaacharya2247-oss/Focus-Flow-Ai" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=apekshaacharya2247-oss&repo=Focus-Flow-Ai&title_color=ffffff&text_color=14b8a6&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/apekshaacharya2247-oss/weather_ml_API" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=apekshaacharya2247-oss&repo=weather_ml_API&title_color=ffffff&text_color=14b8a6&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
