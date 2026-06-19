@@ -91,11 +91,9 @@ Collection of modern web applications built using HTML, CSS, JavaScript, and Rea
 
 ---
 
-## Daily Developer Quote
-
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal"/>
-</p> 
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2d6f3b59-5c8f-4b87-bd77-fd6b8f0d2a49.gif" width="700">
+</p>
 </div>
 
 ---
