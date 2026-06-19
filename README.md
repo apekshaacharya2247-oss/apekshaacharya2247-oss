@@ -91,13 +91,12 @@ Collection of modern web applications built using HTML, CSS, JavaScript, and Rea
 
 ---
 
-## Daily Developer Quote
+## Contribution Calendar
 <div>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2d6f3b59-5c8f-4b87-bd77-fd6b8f0d2a49.gif" width="700">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=apekshaacharya2247-oss&hide_border=true" />
 </p>
 </div>
-
 
 ---
 
