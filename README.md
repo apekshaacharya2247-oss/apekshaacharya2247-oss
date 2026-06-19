@@ -10,8 +10,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212744275-2d6f3b59-5c8f-4b87-bd77-fd6b8f0d2a49.gif" width="500">
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-bf8b-1d3d2cf3f10f.gif" width="600">
-</p>
 
 
 ---
@@ -93,12 +91,11 @@ Collection of modern web applications built using HTML, CSS, JavaScript, and Rea
 
 ---
 
-## GitHub Trophies
+## Daily Developer Quote
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=apekshaacharya2247-oss&theme=flat&no-frame=true&row=1&column=6"/>
-
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal"/>
+</p> 
 </div>
 
 ---
