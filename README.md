@@ -4,69 +4,78 @@
 
 ### Full Stack Developer | React.js • JavaScript • Python • SQL
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=F4A6C1&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Real+World+Applications;Java+%7C+React+%7C+Python+%7C+SQL;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=F4A6C1&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Real+World+Applications;Java+%7C+Python+%7C+JavaScript+%7C+SQL;Always+Learning+New+Technologies" />
 
 </div>
+
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450">
+</p>
 
 ---
 
 ## About Me
 
-Computer Science student passionate about building responsive and user-friendly web applications.
+Computer Science student passionate about technology, problem-solving, and building innovative solutions.
 
 - Full Stack Development
-- Java Programming
-- React Development
-- Database Management
+- Responsive Web Applications
 - Problem Solving
 - Continuous Learning
+- Modern Web Technologies
 
 ---
 
-## Tech Stack
+## Skills
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=javascript" />
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=vscode" />
-</p>
+### Programming
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Web Development
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## Currently Learning
+
+- Advanced Data Structures
+- Full Stack Development
+- Machine Learning Concepts
+- Advanced Java
+- React.js
 
 ---
 
 ## Featured Projects
 
 ### Student Management System
-
-A web application for managing student records, attendance, and academic details.
+Full-stack application for managing student records, attendance, and academic information.
 
 ### Focus Flow AI
-
-AI-powered productivity application designed to improve focus and task management.
+AI-powered productivity and task management platform.
 
 ### Portfolio Website
+Responsive personal portfolio showcasing projects and skills.
 
-Personal portfolio showcasing projects, skills, and achievements.
-
-### Full Stack Web Applications
-
-Collection of responsive web applications built using modern technologies.
-
----
-
-## Currently Learning
-
-- Advanced Java
-- Full Stack Development
-- React.js
-- Data Structures & Algorithms
-- Machine Learning Fundamentals
+### Web Development Projects
+Collection of modern web applications built using HTML, CSS, JavaScript, and React.
 
 ---
 
@@ -74,7 +83,7 @@ Collection of responsive web applications built using modern technologies.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=apekshaacharya2247-oss&show_icons=true&theme=default&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=apekshaacharya2247-oss&show_icons=true&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apekshaacharya2247-oss&layout=compact&hide_border=true"/>
 
@@ -82,34 +91,25 @@ Collection of responsive web applications built using modern technologies.
 
 ---
 
-## Development Activity
+## GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=apekshaacharya2247-oss&bg_color=ffffff&color=F4A6C1&line=F4A6C1&point=000000&area=true&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=apekshaacharya2247-oss&theme=flat&no-frame=true&row=1&column=6"/>
 
 </div>
 
 ---
 
-## Achievements
-
-- Building Full Stack Projects
-- Exploring Modern Web Technologies
-- Improving Problem Solving Skills
-- Continuous Learning and Development
-
----
-
 ## Connect With Me
 
-GitHub  
+### GitHub
 https://github.com/apekshaacharya2247-oss
 
-LinkedIn  
+### LinkedIn
 https://www.linkedin.com/in/apeksha-acharya-495161334
 
-Email  
+### Email
 apekshaacharya2247@gmail.com
 
 ---
