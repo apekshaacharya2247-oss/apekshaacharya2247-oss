@@ -92,7 +92,7 @@ Collection of modern web applications built using HTML, CSS, JavaScript, and Rea
 ---
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2d6f3b59-5c8f-4b87-bd77-fd6b8f0d2a49.gif" width="700">
+<img src="https://user-images.githubusercontent.com/74038190/212749726-d36c8d5e-fc5d-4bfb-a0b8-71e8f4cdd66c.gif" width="700">
 </p>
 </div>
 
