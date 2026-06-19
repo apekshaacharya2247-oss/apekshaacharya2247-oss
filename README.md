@@ -1,50 +1,141 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Apeksha
-================================================================================================================================
+<h1 align="center">
+ 🌸✨ Hi, I'm Apeksha ✨🌸
+</h1>
 
-Full Stack Developer | React.js • JavaScript • Python • SQL | Building Real-World Web Applications
---------------------------------------------------------------------------------------------------
-
-Passionate Full Stack Developer focused on building responsive, user-friendly, and scalable web applications. Skilled in React.js, JavaScript, Python, and SQL, with hands-on experience developing real-world projects. Continuously learning modern technologies, solving problems, and creating solutions that deliver meaningful user experiences.
-
-*  You can contact me at [apekshaacharya2247@gmal,com](mailto:apekshaacharya2247@gmal,com)
-
- <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500"/>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&size=26&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Aspiring+Full+Stack+Developer+💻;Java+•+Python+•+JavaScript+•+SQL;Building+Beautiful+Web+Applications+🌸;Always+Learning+Something+New+✨" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500"/>
+<img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-bf8b-1d3d2cf3f10f.gif" width="600">
+</p>
+
+---
+
+# 🌷 About Me
+
+💖 Computer Science Student
+
+🌸 Passionate about Web Development
+
+💻 Love building real-world projects
+
+🚀 Exploring Full Stack Development
+
+✨ Continuously learning modern technologies
+
+---
+
+# 🎀 Tech Stack
+
+### 💖 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=cpp" />
+<img src="https://skillicons.dev/icons?i=c" />
+<img src="https://skillicons.dev/icons?i=javascript" />
+</p>
+
+### 🌸 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=bootstrap" />
+</p>
+
+### 🎀 Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=express" />
+</p>
+
+### 🌷 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 💕 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+</p>
+
+---
+
+# 🌸 Currently Learning
+
+🌱 Full Stack Development
+
+🌱 Advanced Java
+
+🌱 React.js
+
+🌱 Machine Learning
+
+🌱 Data Structures & Algorithms
+
+---
+
+# 💖 Featured Projects
+
+🎓 Student Management System
+
+🌐 Portfolio Website
+
+🤖 AI Focus Assistant
+
+📊 Data Analytics Dashboard
+
+---
+
+# 🌷 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=apekshaacharya2247-oss&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="350">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=apekshaacharya2247-oss&theme=radical" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+# 🌸 Connect With Me
+
+💻 GitHub
+
+https://github.com/apekshaacharya2247-oss
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/apeksha-acharya-495161334
+
+📧 Email
+
+apekshaacharya2247@gmail.com
+
+---
+
+<p align="center">
+🌸 Thanks for Visiting My Profile 🌸
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical"/>
+<img src="https://user-images.githubusercontent.com/74038190/216655810-c24796c5-0a84-4f80-9d3b-6e06c5b08c1f.gif" width="300">
 </p>
-
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" alt="Angular" title="Angular" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
-</p>
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/apekshaacharya2247-oss" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/www.linkedin.com/in/apeksha-acharya-495161334" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/apekshaacharya2247-oss"><img src="https://github-readme-stats.vercel.app/api?username=apekshaacharya2247-oss&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=14b8a6&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="apekshaacharya2247-oss's GitHub stats" /></a>
-
-<a href="http://www.github.com/apekshaacharya2247-oss"><img src="https://github-readme-streak-stats.herokuapp.com/?user=apekshaacharya2247-oss&stroke=14b8a6&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=14b8a6&currStreakLabel=ffffff&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
-
-<a href="https://github.com/apekshaacharya2247-oss" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apekshaacharya2247-oss&langs_count=10&title_color=ffffff&text_color=14b8a6&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/apekshaacharya2247-oss/Focus-Flow-Ai" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=apekshaacharya2247-oss&repo=Focus-Flow-Ai&title_color=ffffff&text_color=14b8a6&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/apekshaacharya2247-oss/weather_ml_API" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=apekshaacharya2247-oss&repo=weather_ml_API&title_color=ffffff&text_color=14b8a6&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-
-
-
