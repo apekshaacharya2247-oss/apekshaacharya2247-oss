@@ -1,68 +1,38 @@
-<h1 align="center">
- 🌸✨ Hi, I'm Apeksha ✨🌸
-</h1>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&size=26&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Aspiring+Full+Stack+Developer+💻;Java+•+Python+•+JavaScript+•+SQL;Building+Beautiful+Web+Applications+🌸;Always+Learning+Something+New+✨" />
-</p>
+# Apeksha Acharya
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-bf8b-1d3d2cf3f10f.gif" width="600">
-</p>
+### Full Stack Developer | React.js • JavaScript • Python • SQL
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=F4A6C1&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Real+World+Applications;Java+%7C+React+%7C+Python+%7C+SQL;Always+Learning+New+Technologies" />
+
+</div>
 
 ---
 
-# 🌷 About Me
+## About Me
 
-💖 Computer Science Student
+Computer Science student passionate about building responsive and user-friendly web applications.
 
-🌸 Passionate about Web Development
-
-💻 Love building real-world projects
-
-🚀 Exploring Full Stack Development
-
-✨ Continuously learning modern technologies
+- Full Stack Development
+- Java Programming
+- React Development
+- Database Management
+- Problem Solving
+- Continuous Learning
 
 ---
 
-# 🎀 Tech Stack
+## Tech Stack
 
-### 💖 Programming Languages
-
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=java" />
 <img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=cpp" />
-<img src="https://skillicons.dev/icons?i=c" />
 <img src="https://skillicons.dev/icons?i=javascript" />
-</p>
-
-### 🌸 Frontend
-
-<p>
+<img src="https://skillicons.dev/icons?i=react" />
 <img src="https://skillicons.dev/icons?i=html" />
 <img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=bootstrap" />
-</p>
-
-### 🎀 Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs" />
-<img src="https://skillicons.dev/icons?i=express" />
-</p>
-
-### 🌷 Database
-
-<p>
 <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### 💕 Tools
-
-<p>
 <img src="https://skillicons.dev/icons?i=git" />
 <img src="https://skillicons.dev/icons?i=github" />
 <img src="https://skillicons.dev/icons?i=vscode" />
@@ -70,72 +40,82 @@
 
 ---
 
-# 🌸 Currently Learning
+## Featured Projects
 
-🌱 Full Stack Development
+### Student Management System
 
-🌱 Advanced Java
+A web application for managing student records, attendance, and academic details.
 
-🌱 React.js
+### Focus Flow AI
 
-🌱 Machine Learning
+AI-powered productivity application designed to improve focus and task management.
 
-🌱 Data Structures & Algorithms
+### Portfolio Website
 
----
+Personal portfolio showcasing projects, skills, and achievements.
 
-# 💖 Featured Projects
+### Full Stack Web Applications
 
-🎓 Student Management System
-
-🌐 Portfolio Website
-
-🤖 AI Focus Assistant
-
-📊 Data Analytics Dashboard
+Collection of responsive web applications built using modern technologies.
 
 ---
 
-# 🌷 GitHub Stats
+## Currently Learning
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=apekshaacharya2247-oss&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=apekshaacharya2247-oss&theme=radical" />
-</p>
+- Advanced Java
+- Full Stack Development
+- React.js
+- Data Structures & Algorithms
+- Machine Learning Fundamentals
 
 ---
 
-# 🐍 Contribution Snake
+## GitHub Statistics
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-</p>
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=apekshaacharya2247-oss&show_icons=true&theme=default&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apekshaacharya2247-oss&layout=compact&hide_border=true"/>
+
+</div>
 
 ---
 
-# 🌸 Connect With Me
+## Development Activity
 
-💻 GitHub
+<div align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=apekshaacharya2247-oss&bg_color=ffffff&color=F4A6C1&line=F4A6C1&point=000000&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+## Achievements
+
+- Building Full Stack Projects
+- Exploring Modern Web Technologies
+- Improving Problem Solving Skills
+- Continuous Learning and Development
+
+---
+
+## Connect With Me
+
+GitHub  
 https://github.com/apekshaacharya2247-oss
 
-💼 LinkedIn
-
+LinkedIn  
 https://www.linkedin.com/in/apeksha-acharya-495161334
 
-📧 Email
-
+Email  
 apekshaacharya2247@gmail.com
 
 ---
 
-<p align="center">
-🌸 Thanks for Visiting My Profile 🌸
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216655810-c24796c5-0a84-4f80-9d3b-6e06c5b08c1f.gif" width="300">
-</p>
+### Thanks for visiting my profile
+
+</div>
