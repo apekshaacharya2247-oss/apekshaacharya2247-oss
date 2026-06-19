@@ -9,7 +9,10 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212744275-2d6f3b59-5c8f-4b87-bd77-fd6b8f0d2a49.gif" width="500">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=F4A6C1&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Real+World+Applications;Java+%7C+React+%7C+Python+%7C+SQL;Always+Learning+New+Technologies" />
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-bf8b-1d3d2cf3f10f.gif" width="600">
+</p>
+
 
 ---
 
